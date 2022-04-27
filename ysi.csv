@@ -92,7 +92,7 @@ N-isopropylmethylamine,4747-21-1,,CNC(C)C,18.105,
 2-methylpyridine,109-06-8,,Cc1ccccn1,64.971,
 3-methylpyridine,108-99-6,,Cc1cccnc1,66.056,
 4-methylpyridine,108-89-4,,Cc1ccncc1,65.652,
-o-toluidine, 95-53-4,,Cc1ccccc1N,114.426,
+o-toluidine,95-53-4,,Cc1ccccc1N,114.426,
 m-toluidine,108-44-1,,Cc1cccc(N)c1,119.647,
 2-methylpiperidine,109-05-7,,CC1CCCCN1,27.311,
 3-methylpiperidine,626-56-2,,CC1CCCNC1,33.626,
@@ -116,7 +116,7 @@ N-butylaniline,1126-78-9,,CCCCNc1ccccc1,124.486,
 2-ethyl hexyl nitrate,27247-96-7,,CCCCC(CC)CO[N+](=O)[O-],39.156,
 n-butyl nitrite,544-16-1,,CCCCON=O,11.209,
 tert-butyl nitrite,540-80-7,,CC(C)(C)ON=O,11.193,
-Isopropyl nitrate ,‎1712-64-7,,CC(C)O[N+](=O)[O-],1.053,
+Isopropyl nitrate,1712-64-7,,CC(C)O[N+](=O)[O-],1.053,
 1-methyl indole,603-76-9,,Cn1ccc2ccccc21,220.118,
 indoline,496-15-1,,c1ccc2c(c1)CCN2,176.053,
 benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.571,
@@ -653,6 +653,13 @@ geraniol,106-24-1,terpenes,CC(C)=CCCC(C)=CCO,103.7,5.185
 citronellal,106-23-0,terpenes,CC(C)=CCCC(C)CC=O,85.6,4.28
 carvacrol,499-75-2,terpenes,Cc1ccc(C(C)C)cc1O,193.1,9.655
 linalool,126-91-0,terpenes,C=CC(C)(O)CCC=C(C)C,98.0,4.9
-C10 (3-ethyl-4-methylheptane),-,linear alkanes,CCCC(C)C(CC)CC,67.6,3.38
-C18 (5-butyl-6-propylundecane),-,linear alkanes,CCCCCC(CCC)C(CCCC)CCCC,121.8,6.09
-C22 (7-butyl-6-pentyltridecane),-,linear alkanes,CCCCCCC(CCCC)C(CCCCC)CCCCC,133.1,6.655
+C10 (3-ethyl-4-methylheptane),,linear alkanes,CCCC(C)C(CC)CC,67.6,3.38
+C18 (5-butyl-6-propylundecane),,linear alkanes,CCCCCC(CCC)C(CCCC)CCCC,121.8,6.09
+C22 (7-butyl-6-pentyltridecane),,linear alkanes,CCCCCCC(CCCC)C(CCCCC)CCCCC,133.1,6.655
+Methyl Stearate,112-61-8,esters,CCCCCCCCCCCCCCCCCC(=O)OC,80.9,2.2
+Methyl Laurate,111-82-0,esters,CCCCCCCCCCCC(=O)OC,96.1,2.5
+Methyl Myristate,124-10-7,esters,CCCCCCCCCCCCCC(=O)OC,72.5,2.0
+Dihexyl Ether,112-58-3,ethers,CCCCCCOCCCCCC,136.8,3.2
+Methyl Oleate,112-62-9,esters,CCCCCCCC/C=C/CCCCCCCC(=O)OC,150.6,3.4
+Methyl Linoleate,112-63-0,esters,CCCCC/C=C/C/C=C/CCCCCCCC(=O)OC,61.2,1.8
+Diisobutyl Ether,628-55-7,ethers,CC(C)COCC(C)C,94.5,1.7
